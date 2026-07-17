@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local config and data
+AI_Assistant/index_data/
+AI_Assistant/config.json
+AI_Assistant/test_class.wav
+
+# Temp text files
+docx_content.txt

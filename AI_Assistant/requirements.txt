@@ -1,0 +1,12 @@
+# Librerías base para el asistente RAG local
+sounddevice
+faster-whisper
+sentence-transformers
+faiss-cpu
+PyQt6
+requests
+numpy
+
+# NOTA IMPORTANTE PARA PYTORCH:
+# Instalar PyTorch con soporte CUDA ejecutando manualmente:
+# pip install torch --index-url https://download.pytorch.org/whl/cu121
